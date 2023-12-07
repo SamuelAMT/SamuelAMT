@@ -1,9 +1,9 @@
 ### Hi everyone! 👋
 
-- 🌱 I’m currently learning Python and Django/Flask frameworks, besides I learn JS, HTML and CSS.
+- 🌱 Mainly focused in Python using Django, Flask and Pandas frameworks.
 - 👯 I’m looking to collaborate on any projects or idea that can make me learn and grow as a programmer.
 - 📫 Contact: e-mail: samuelmirandasamt@gmail.com
-- ⚡ Fun fact: My hobbies are learn french and play online games.
+- ⚡ Fun fact: Learning French 🇫🇷
 
 <div>
   <a href="https://github.com/SamuelAMT">
