@@ -6,19 +6,41 @@
 - 🧐 Fun fact: Learning French
 
 ### **Front-End Languages and Tools**
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,vite,tailwind,cypress,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev)
+[![My Skills](https://skillicons.dev/icons?i=next)](https://nextjs.org)
+[![My Skills](https://skillicons.dev/icons?i=vite)](https://vitejs.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
+[![My Skills](https://skillicons.dev/icons?i=cypress)](https://www.cypress.io)
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://www.figma.com)
 
 ### **Back-End Languages and Tools**
-[![My Skills](https://skillicons.dev/icons?i=py,django,flask,selenium,debian,ubuntu, )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org)
+[![My Skills](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com)
+[![My Skills](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/3.0.x/)
+[![My Skills](https://skillicons.dev/icons?i=selenium)](https://selenium-python.readthedocs.io)
+[![My Skills](https://skillicons.dev/icons?i=debian)](https://www.debian.org)
+[![My Skills](https://skillicons.dev/icons?i=ubuntu)](https://ubuntu.com)
+
 
 ### **Databases and API Development Tools**
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,fastapi,postman&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
+[![My Skills](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org)
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)
+[![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com)
 
 ### **Code Versioning**
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com)
 
 ### **DevOps and Cloud Computing**
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io)
+[![My Skills](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com)
 
 <br>
 
