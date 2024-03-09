@@ -29,6 +29,9 @@
  ##
   
 <div align="center">
+  <a href="https://www.linkedin.com/in/samuel-miranda-software-py/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"></a>
+  
   <a href="mailto:samuelmirandasamt@gmail.com?subject=Subject%20Here" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" alt="Instagram"></a>
   
