@@ -1,7 +1,8 @@
 ### Hi everyone! 👋
 
 - ⭐ Software Engineer and graduate
-- ⚡ Mainly working with Python for Back-end and React/Next for Front-end applications.
+- ⚡ Currently working on Web Development
+- 🔔 English and Portuguese speaker
 - 🧐 Fun fact: Learning French
 
 ### **Front-End Languages and Tools**
