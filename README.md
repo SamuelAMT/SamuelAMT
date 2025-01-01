@@ -1,4 +1,4 @@
-### Hi everyone! 👋
+### Hi everyone! 👋🏻
 
 - ⭐ Software Engineer and graduate
 - ⚡ Currently working on Web Development
