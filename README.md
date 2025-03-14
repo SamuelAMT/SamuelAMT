@@ -2,8 +2,7 @@
 
 - ⭐ Software Engineer and graduate
 - ⚡ Currently working on Web Development
-- 🔔 English and Portuguese speaker
-- 🧐 Fun fact: Learning French
+- 🔔 English, Portuguese, Hebrew, French
 
 ### **Front-End Languages and Tools**
 [![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
