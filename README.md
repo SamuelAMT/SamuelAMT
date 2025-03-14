@@ -22,8 +22,8 @@
 [![My Skills](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com)
 [![My Skills](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/stable/)
 [![My Skills](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)
-[![My Skills](https://skillicons.dev/icons?i=selenium)](https://selenium-python.readthedocs.io)
 <br>
+[![My Skills](https://skillicons.dev/icons?i=selenium)](https://selenium-python.readthedocs.io)
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/docs/latest/api/)
 [![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com)
 
@@ -34,8 +34,8 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)
 [![My Skills](https://skillicons.dev/icons?i=redis)](https://redis.io/docs/latest/)
-[![My Skills](https://skillicons.dev/icons?i=supabase)](https://supabase.com/docs)
 <br>
+[![My Skills](https://skillicons.dev/icons?i=supabase)](https://supabase.com/docs)
 [![My Skills](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/docs.html)
 [![My Skills](https://skillicons.dev/icons?i=debian)](https://www.debian.org)
 [![My Skills](https://skillicons.dev/icons?i=ubuntu)](https://ubuntu.com)
