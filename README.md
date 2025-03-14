@@ -6,31 +6,39 @@
 
 ### **Front-End Languages and Tools**
 [![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![My Skills](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/docs/)
 [![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev)
 [![My Skills](https://skillicons.dev/icons?i=next)](https://nextjs.org)
-[![My Skills](https://skillicons.dev/icons?i=vite)](https://vitejs.dev)
 [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
-[![My Skills](https://skillicons.dev/icons?i=cypress)](https://www.cypress.io)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://www.figma.com)
+[![My Skills](https://skillicons.dev/icons?i=prisma)](https://www.prisma.io/docs)
+[![My Skills](https://skillicons.dev/icons?i=cypress)](https://www.cypress.io)
 
 ### **Back-End Languages and Tools**
 [![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org)
 [![My Skills](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com)
-[![My Skills](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/3.0.x/)
+[![My Skills](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/stable/)
+[![My Skills](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)
 [![My Skills](https://skillicons.dev/icons?i=selenium)](https://selenium-python.readthedocs.io)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/docs/latest/api/)
+[![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com)
+
+
+
+### **Databases and SysAdmin**
+[![My Skills](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)
+[![My Skills](https://skillicons.dev/icons?i=redis)](https://redis.io/docs/latest/)
+[![My Skills](https://skillicons.dev/icons?i=supabase)](https://supabase.com/docs)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/docs.html)
 [![My Skills](https://skillicons.dev/icons?i=debian)](https://www.debian.org)
 [![My Skills](https://skillicons.dev/icons?i=ubuntu)](https://ubuntu.com)
-
-
-### **Databases and API Development Tools**
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
-[![My Skills](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org)
-[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)
-<br>
-[![My Skills](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)
-[![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com)
 
 ### **Code Versioning**
 [![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com)
@@ -39,7 +47,9 @@
 ### **DevOps and Cloud Computing**
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
 [![My Skills](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io)
+[![My Skills](https://skillicons.dev/icons?i=aws)](https://docs.aws.amazon.com/)
 [![My Skills](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com)
+[![My Skills](https://skillicons.dev/icons?i=cloudflare)](https://developers.cloudflare.com/)
 
 <br>
 
