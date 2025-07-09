@@ -1,8 +1,4 @@
-### Hi everyone! 👋🏻
-
-- ⭐ Software Engineer and graduate
-- ⚡ Currently working on Web Development
-- 🔔 English, Portuguese, Hebrew, French
+### Software Engineer
 
 ### **Front-End Languages and Tools**
 [![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
