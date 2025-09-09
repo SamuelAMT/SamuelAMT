@@ -16,12 +16,15 @@
 ### **Back-End Languages and Tools**
 [![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org)
 [![My Skills](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com)
-[![My Skills](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/stable/)
 [![My Skills](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)
-<br>
+[![My Skills](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/stable/)
 [![My Skills](https://skillicons.dev/icons?i=selenium)](https://selenium-python.readthedocs.io)
+<br>
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/docs/latest/api/)
+[![My Skills](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
 [![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com)
+[![My Skills](https://skillicons.dev/icons?i=kafka)](https://kafka.apache.org/20/documentation.html)
+[![My Skills](https://skillicons.dev/icons?i=sentry)](https://docs.sentry.io/)
 
 
 
@@ -39,13 +42,18 @@
 ### **Code Versioning**
 [![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com)
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com)
+[![My Skills](https://skillicons.dev/icons?i=githubactions)](https://docs.github.com/en/actions)
 
 ### **DevOps and Cloud Computing**
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
 [![My Skills](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io)
 [![My Skills](https://skillicons.dev/icons?i=aws)](https://docs.aws.amazon.com/)
+[![My Skills](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/)
 [![My Skills](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com)
+<br>
 [![My Skills](https://skillicons.dev/icons?i=cloudflare)](https://developers.cloudflare.com/)
+[![My Skills](https://skillicons.dev/icons?i=grafana)](https://grafana.com/docs/)
+[![My Skills](https://skillicons.dev/icons?i=prometheus)](https://prometheus.io/docs/introduction/overview/)
 
 <br>
 
