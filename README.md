@@ -6,9 +6,11 @@
 [![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev)
 [![My Skills](https://skillicons.dev/icons?i=next)](https://nextjs.org)
 [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
+[![My Skills](https://skillicons.dev/icons?i=ember)](https://guides.emberjs.com/release/)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![My Skills](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/documentation/)
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://www.figma.com)
 [![My Skills](https://skillicons.dev/icons?i=prisma)](https://www.prisma.io/docs)
 [![My Skills](https://skillicons.dev/icons?i=cypress)](https://www.cypress.io)
@@ -19,11 +21,13 @@
 [![My Skills](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)
 [![My Skills](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/stable/)
 [![My Skills](https://skillicons.dev/icons?i=selenium)](https://selenium-python.readthedocs.io)
+[![My Skills](https://skillicons.dev/icons?i=go)](https://go.dev/doc/)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/docs/latest/api/)
 [![My Skills](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
 [![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com)
 [![My Skills](https://skillicons.dev/icons?i=kafka)](https://kafka.apache.org/20/documentation.html)
+[![My Skills](https://skillicons.dev/icons?i=rabbitmq)](https://www.rabbitmq.com/docs)
 [![My Skills](https://skillicons.dev/icons?i=sentry)](https://docs.sentry.io/)
 
 
